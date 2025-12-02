@@ -14,3 +14,14 @@ Michael Gomes
 | Input                      | Output                    |
 |----------------------------|---------------------------|
 | ![Input](input_example.png) | ![Output](output_example.png) |
+
+## Results
+
+### Model Accuracy Comparison
+![Accuracy Comparison](accuracy_comparison.png)
+
+### Confusion Matrix – Gradient Boosting
+![Confusion Matrix](confusion_matrix.png)
+
+### Feature Importance – Gradient Boosting
+![Feature Importance](feature_importance.png)
